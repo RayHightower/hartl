@@ -1,0 +1,2 @@
+Sandboxes containing exercises from the latest edition of Ruby on Rails Tutorial by Michael Hartl.
+
