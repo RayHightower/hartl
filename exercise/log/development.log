@@ -1,0 +1,11 @@
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2013-04-17 23:31:37 -0500
+Served asset /rails.png - 200 OK (16ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2013-04-17 23:31:40 -0500
+Processing by Rails::InfoController#properties as */*
+  Rendered inline template (4.9ms)
+Completed 200 OK in 37ms (Views: 36.4ms | ActiveRecord: 0.0ms)
